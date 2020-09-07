@@ -10,10 +10,7 @@
 - 💾: HTML, CSS, JavaScript, Node.js, React, Bootstrap, always wanting to learn more and better.
 - 🔧: Visual Studio Code, GitHub.
 
-<br>
-
 ### Reach me out 👇🏼
-<br>
 <div style="text-align: justify">
   
 [![Gmail](https://img.shields.io/badge/-GMAIL-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rafaelnpf.dev@gmail.com)](mailto:rafaelnpf.dev@gmail.com)
